@@ -67,6 +67,7 @@ The dashboard enables marketing teams and analysts to make data-driven decisions
 ### 🔹 Interactive Filters
 - Campaign Name  
 - Target Interest  
+- Navigation Button
 - Dynamic metric selection  
 
 ---
