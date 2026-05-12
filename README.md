@@ -1,12 +1,12 @@
 # 📊 Meta Ad Performance Dashboard (Power BI)
 
 ## 📷 Dashboard Preview
-![Meta Ads Dashboard](./assets/meta_ads_dashboard.png)
+![Meta Ads Dashboard](https://github.com/abhisheknirmal02-lab/Meta-adv-Performance./blob/main/Meta%20ads.png)
 
-🔗 **Live Dashboard:** [Add Power BI / Fabric Link Here]  
-📂 **Raw Dataset:** [Add Dataset Link Here]  
-📐 **DAX Queries:** [Add DAX File / Docs Link Here]  
-🗄️ **SQL Validation Queries:** [Add SQL Scripts Link Here]  
+🔗 **Live Dashboard:** [Power BI Dashboard](https://github.com/abhisheknirmal02-lab/Meta-adv-Performance./blob/main/Meta%20ad%20performance.pbix)  
+📂 **Raw Dataset:** []()   
+📐 **DAX Queries:** []()  
+🗄️ **SQL Validation Queries:** []()  
 
 ---
 
@@ -103,8 +103,8 @@ The dashboard enables marketing teams and analysts to make data-driven decisions
 
 ---
 
-## 📷 Additional Preview (Optional)
-![Meta Ads Dashboard](./assets/meta_ads_dashboard.png)
+## 📷 Additional Preview
+![Meta Ads Dashboard with calendar Tooltip](https://github.com/abhisheknirmal02-lab/Meta-adv-Performance./blob/main/meta%20ads%20with%20Tooltip.png)
 
 ---
 
