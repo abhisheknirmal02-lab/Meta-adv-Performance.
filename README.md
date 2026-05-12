@@ -7,6 +7,7 @@ This project presents an interactive Meta (Facebook & Instagram) Ads Performance
 
 The dashboard is designed to help marketing teams, analysts, and decision-makers track campaign effectiveness, identify trends, and optimize ad strategies for better ROI.
 
+
 🎯 Key Objectives
 
 Monitor ad campaign performance in real time
@@ -18,6 +19,7 @@ Evaluate conversion efficiency and purchase trends
 Track budget allocation and utilization
 
 Enable data-driven decision-making for marketing optimization
+
 
 📌 Key Metrics (KPIs)
 
@@ -40,6 +42,7 @@ Purchases: 442
 Total Budget: $2.54M
 
 Avg. Budget per Campaign: $50.72K
+
 
 📊 Dashboard Features
 
@@ -99,6 +102,7 @@ Metrics selection
 
 Enables customized data exploration
 
+
 🛠️ Tools & Technologies
 
 Power BI – Data visualization & dashboard design
@@ -108,6 +112,7 @@ DAX (Data Analysis Expressions) – KPI calculations & measures
 Data Modeling – Relationships & transformations
 
 SQL (optional backend) – Data extraction and validation
+
 
 📈 Business Insights
 
@@ -121,6 +126,7 @@ Certain ad types (e.g., Stories/Carousel) outperform others in engagement
 
 Peak engagement observed during specific hours and days
 
+
 💡 Key Learnings
 
 Built scalable KPI-driven dashboards
@@ -133,6 +139,7 @@ Transformed raw data into actionable insights
 
 Improved storytelling using data visualization
 
+
 🔮 Future Enhancements
 
 Integration with live Meta Ads API
@@ -143,7 +150,18 @@ A/B testing performance tracking
 
 ROI and customer lifetime value (CLV) analysis
 
+
 📷 [Dashboard Preview]()
+
+
+🤝 Connect With Me
+
+If you like this project or want to collaborate, feel free to connect!
+
+
+
+
+
 
 
 
